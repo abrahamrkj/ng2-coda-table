@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/akveo/ng2-smart-table.svg?branch=master)](https://travis-ci.org/akveo/ng2-smart-table)
 
-# Angular Smart Table Component
+# Angular 2 Smart Table Component
 
 ng2-smart-table component made with :heart:  by [Akveo team](http://akveo.com/). Follow us on [Twitter](https://twitter.com/akveo_inc) to get latest news about this component first!
 
@@ -8,7 +8,7 @@ ng2-smart-table component made with :heart:  by [Akveo team](http://akveo.com/).
 
 <a target="_blank" href="https://akveo.github.io/ng2-smart-table/">Live Demo</a>
 
-![alt tag](src/assets/img/demo.gif)
+![alt tag](demo/src/assets/img/demo.gif)
 
 ## Installation
 
@@ -82,9 +82,9 @@ Finally let's put the ng2-smart-table component inside of the template:
 })
 // ...
 ```
-At this step you will have a minimal configured table. All functions are available by default and you don't need to configure them anyhow, so now you can add/edit/delete rows, sort or filter the table, etc.
+At this step you will have a minimally configured table. All functions are available by default and you don't need to configure them somehow, so you already able to add/edit/delete rows, sort or filter the table, etc.
  
-Still it seems like something is missing... Right, there is no data in the table by default. To add some, let's create an array property with a list of objects in the component. Please note that object keys are the same as in the columns configuration.
+But it feels like something is missing... Right, there is no data in the table by default. To add some, let's create an array property with a list of objects in the component. Please note that object keys are same as in the columns configuration.
 
 ```
 data = [
@@ -150,7 +150,7 @@ Yes!  Visit [our homepage](http://akveo.com/) or simply leave us a note to [cont
 ##License
 [MIT](LICENSE.txt) license.
 
-### From harini
+### From akveo
 
 Enjoy :metal:
 We're always happy to hear your feedback!
