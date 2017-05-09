@@ -150,7 +150,7 @@ Yes!  Visit [our homepage](http://akveo.com/) or simply leave us a note to [cont
 ##License
 [MIT](LICENSE.txt) license.
 
-### From akveo
+### From harini
 
 Enjoy :metal:
 We're always happy to hear your feedback!
